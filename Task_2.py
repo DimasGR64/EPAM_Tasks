@@ -4,3 +4,4 @@ def find(number):
         print('число', number, 'входит в массив')
     else:
         print('число', number, 'не входит в массив')
+find(5)
